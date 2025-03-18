@@ -1,0 +1,15 @@
+<header class="header">
+    <nav>
+        <div class="logo">AI&Edge</div>
+        <ul class="nav-links">
+            {% for item in site.data.navigation %}
+            <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
+    <div class="hero">
+        <h1>{{ site.title }}</h1>
+        <p class="date-location">March 15-16, 2024 | Virtual Event</p>
+        <a href="#register" class="cta-button">Register Now</a>
+    </div>
+</header>
