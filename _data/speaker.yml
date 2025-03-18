@@ -1,0 +1,7 @@
+- name: "Dr. Alice Chen"
+  bio: "Edge AI Research Lead, Tech Corp"
+  image: "/assets/images/speakers/alice-chen.jpg"
+
+- name: "Raj Patel"
+  bio: "TinyML Foundation"
+  image: "/assets/images/speakers/raj-patel.jpg"
