@@ -1,0 +1,8 @@
+- name: About
+  link: "#about"
+- name: Schedule
+  link: "#schedule"
+- name: Speakers
+  link: "#speakers"
+- name: Register
+  link: "#register"
